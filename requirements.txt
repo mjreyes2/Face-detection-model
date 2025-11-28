@@ -1,9 +1,9 @@
 tensorflow
-karas 
-pandas 
+keras
+pandas
 numpy
-jupyter 
-jupiter notebook
+jupyter
+jupyter-notebook
 tqdm
 opencv-contrib-python
  
